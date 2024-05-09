@@ -12,6 +12,7 @@ const States = () => {
     <button onDoubleClick={increase}>Increase Count</button>
     <button onClick={decrease}>Decrease Count</button>
     <h1>Here is Count Number : {count}</h1>
+    <h3>Practicing Codedamn issue</h3>
     </>
   )
 }
